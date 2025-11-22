@@ -4,11 +4,8 @@ import adapter from "@sveltejs/adapter-vercel";
 const config = {
 	kit: {
 		adapter: adapter({
-			fallback: "404.html"
-		}),
-		paths: {
-			base: process.argv.includes("dev") ? "" : "/trivia-da-luz"
-		}
+			runtime: "nodejs20.x"
+		})
 	}
 };
 
