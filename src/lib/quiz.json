@@ -1,0 +1,337 @@
+[
+	{
+		"tema": "Introdução do Livro dos Espíritos",
+		"pergunta": "Segundo a Introdução do Livro dos Espíritos, qual é o objetivo central da Doutrina Espírita?",
+		"alternativas": [
+			"Explicar milagres religiosos",
+			"Substituir todas as religiões existentes",
+			"Explicar as leis naturais que regem o mundo material e espiritual",
+			"Prever acontecimentos futuros"
+		],
+		"resposta": 2
+	},
+	{
+		"tema": "Introdução do Livro dos Espíritos",
+		"pergunta": "Na Introdução, Kardec afirma que os espíritos superiores recomendam que o estudo seja feito com:",
+		"alternativas": [
+			"Pressa e fé cega",
+			"Base em tradições antigas",
+			"Perseverança e sem ideias preconcebidas",
+			"Obediência absoluta às comunicações"
+		],
+		"resposta": 2
+	},
+	{
+		"tema": "Introdução do Livro dos Espíritos",
+		"pergunta": "Segundo a Introdução, qual é a relação entre ciência e Espiritismo?",
+		"alternativas": [
+			"São incompatíveis",
+			"A ciência explica o mundo material e o Espiritismo explica o mundo moral",
+			"O Espiritismo substitui a ciência",
+			"A ciência depende do Espiritismo para avançar"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Introdução do Livro dos Espíritos",
+		"pergunta": "A Introdução destaca que o Espiritismo não é revelação milagrosa porque:",
+		"alternativas": [
+			"Foi transmitido apenas por médiuns santos",
+			"É fruto de observação, comparação e análise dos fenômenos",
+			"Surpreende a ciência com eventos sobrenaturais",
+			"É baseado nos dogmas cristãos"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Introdução do Livro dos Espíritos",
+		"pergunta": "Segundo Kardec, como avaliar a veracidade das comunicações espirituais?",
+		"alternativas": [
+			"Pela aparência do médium",
+			"Pelo conteúdo racional e moral",
+			"Pela assinatura do espírito comunicante",
+			"Pela intensidade do fenômeno físico"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Introdução do Livro dos Espíritos",
+		"pergunta": "Os Espíritos se comunicam principalmente para:",
+		"alternativas": [
+			"Divertir encarnados",
+			"Instruir e esclarecer",
+			"Dominar e impor regras",
+			"Provar a vida após a morte"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Introdução do Livro dos Espíritos",
+		"pergunta": "Por que há divergências entre comunicações de diferentes espíritos?",
+		"alternativas": [
+			"Porque alguns espíritos mentem sempre",
+			"Porque as manifestações são ilusões humanas",
+			"Porque existem espíritos de diferentes níveis morais e intelectuais",
+			"Porque os médiuns alteram intencionalmente as mensagens"
+		],
+		"resposta": 2
+	},
+	{
+		"tema": "Introdução do Livro dos Espíritos",
+		"pergunta": "Por que o Espiritismo progride com o tempo?",
+		"alternativas": [
+			"Porque novas observações e comunicações ampliam o entendimento",
+			"Porque acompanha as modas espirituais",
+			"Porque depende da opinião pública",
+			"Porque muda conforme cada médium"
+		],
+		"resposta": 0
+	},
+
+	{
+		"tema": "Livro dos Médiuns",
+		"pergunta": "Segundo o Capítulo XX, a influência moral do médium pode afetar:",
+		"alternativas": [
+			"A forma física do espírito",
+			"A velocidade da comunicação",
+			"A sintonia e o tipo de espírito que se comunica",
+			"A potência da mediunidade"
+		],
+		"resposta": 2
+	},
+	{
+		"tema": "Livro dos Médiuns",
+		"pergunta": "Médiuns moralmente falhos:",
+		"alternativas": [
+			"Não podem receber mensagens",
+			"Atraem espíritos inferiores, mesmo se tiverem boa faculdade",
+			"Não exercem influência na mediunidade",
+			"São incapazes de ser enganados"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Livro dos Médiuns",
+		"pergunta": "Reconhecer a identidade dos espíritos exige:",
+		"alternativas": [
+			"Confiar na assinatura",
+			"Aceitar todas as mensagens",
+			"Coerência moral e doutrinária",
+			"A aprovação de vários médiuns"
+		],
+		"resposta": 2
+	},
+	{
+		"tema": "Livro dos Médiuns",
+		"pergunta": "Critério para verificar identidade dos espíritos:",
+		"alternativas": [
+			"Elevação moral do conteúdo",
+			"Nome utilizado",
+			"Estado físico do médium",
+			"Duração da comunicação"
+		],
+		"resposta": 0
+	},
+	{
+		"tema": "Livro dos Médiuns",
+		"pergunta": "Espíritos mistificadores podem ser identificados porque:",
+		"alternativas": [
+			"Sempre usam nomes desconhecidos",
+			"Apresentam contradições, orgulho e linguagem enganosa",
+			"Nunca fazem elogios",
+			"Recusam responder perguntas"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Livro dos Médiuns",
+		"pergunta": "O médium deve desconfiar quando o espírito:",
+		"alternativas": [
+			"Se envaidece ou exige submissão",
+			"Não dá informações detalhadas",
+			"Responde com simplicidade",
+			"Usa linguagem respeitosa"
+		],
+		"resposta": 0
+	},
+	{
+		"tema": "Livro dos Médiuns",
+		"pergunta": "A influência moral do médium afeta:",
+		"alternativas": [
+			"A forma do corpo espiritual",
+			"A luminosidade da comunicação",
+			"A qualidade e segurança das comunicações",
+			"A presença de fenômenos físicos"
+		],
+		"resposta": 2
+	},
+	{
+		"tema": "Livro dos Médiuns",
+		"pergunta": "Melhor proteção contra mistificações:",
+		"alternativas": [
+			"Acreditar apenas em espíritos conhecidos",
+			"Evitar perguntas difíceis",
+			"Raciocínio, humildade e estudo",
+			"Depender de médiuns famosos"
+		],
+		"resposta": 2
+	},
+
+	{
+		"tema": "Princípios Básicos da Doutrina",
+		"pergunta": "Princípio fundamental da Doutrina Espírita:",
+		"alternativas": [
+			"Predestinação absoluta",
+			"Imortalidade da alma",
+			"Castigo eterno",
+			"Inexistência de vida após a morte"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Princípios Básicos da Doutrina",
+		"pergunta": "Os espíritos progridem:",
+		"alternativas": [
+			"Apenas intelectualmente",
+			"Intelectual e moralmente",
+			"Apenas moralmente",
+			"Por privilégio divino"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Princípios Básicos da Doutrina",
+		"pergunta": "A comunicabilidade dos espíritos significa que:",
+		"alternativas": [
+			"Somente santos podem se comunicar",
+			"Espíritos aparecem apenas em sonhos",
+			"Podem interagir com encarnados",
+			"Não interferem no mundo físico"
+		],
+		"resposta": 2
+	},
+	{
+		"tema": "Princípios Básicos da Doutrina",
+		"pergunta": "Objetivo da reencarnação:",
+		"alternativas": [
+			"Castigar pecadores",
+			"Manter população estável",
+			"Progresso moral e intelectual",
+			"Separar bons e maus"
+		],
+		"resposta": 2
+	},
+	{
+		"tema": "Princípios Básicos da Doutrina",
+		"pergunta": "A lei de causa e efeito explica:",
+		"alternativas": [
+			"Destino fixo",
+			"Consequências naturais das escolhas",
+			"Intervenções sobrenaturais",
+			"Milagres constantes"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Princípios Básicos da Doutrina",
+		"pergunta": "Deus, segundo o Espiritismo, é:",
+		"alternativas": [
+			"Um ser material",
+			"Um espírito evoluído",
+			"Inteligência suprema e causa primária",
+			"Um governante semelhante ao humano"
+		],
+		"resposta": 2
+	},
+
+	{
+		"tema": "Soul – Visão Espírita",
+		"pergunta": "O 'Seminário Você' pode ser comparado a:",
+		"alternativas": [
+			"Plano dos espíritos felizes",
+			"Preparação espiritual antes da reencarnação",
+			"Colônias espirituais pós-desencarne",
+			"Erraticidade de espíritos sofredores"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Soul – Visão Espírita",
+		"pergunta": "A personagem 22 representa:",
+		"alternativas": [
+			"Espírito endurecido",
+			"Espírito evoluído",
+			"Espíritos que retardam a reencarnação por insegurança ou apego",
+			"Espíritos sem livre-arbítrio"
+		],
+		"resposta": 2
+	},
+	{
+		"tema": "Soul – Visão Espírita",
+		"pergunta": "A 'faísca' representa:",
+		"alternativas": [
+			"Predestinação absoluta",
+			"Força vital material",
+			"Tendências e propósito reencarnatório",
+			"Inspiração de mentores encarnados"
+		],
+		"resposta": 2
+	},
+
+	{
+		"tema": "Bem x Mal – Leis Morais",
+		"pergunta": "O bem é definido como:",
+		"alternativas": [
+			"Tudo que está de acordo com a lei de Deus",
+			"Somente ações beneficentes materiais",
+			"Ausência completa de erros",
+			"Prática religiosa obrigatória"
+		],
+		"resposta": 0
+	},
+	{
+		"tema": "Bem x Mal – Leis Morais",
+		"pergunta": "A escolha entre bem e mal é explicada pela:",
+		"alternativas": [
+			"Lei do Trabalho",
+			"Lei de Liberdade",
+			"Lei de Adoração",
+			"Lei de Progresso"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Bem x Mal – Leis Morais",
+		"pergunta": "O sofrimento decorrente do mal praticado tem objetivo de:",
+		"alternativas": [
+			"Castigo divino",
+			"Reformar e orientar o espírito",
+			"Atestar inferioridade permanente",
+			"Punir sem finalidade educativa"
+		],
+		"resposta": 1
+	},
+
+	{
+		"tema": "Parábolas",
+		"pergunta": "Na parábola do Filho Pródigo, o retorno ao lar simboliza:",
+		"alternativas": [
+			"Recompensa material",
+			"Arrependimento e recomeço moral",
+			"Punição dos rebeldes",
+			"Superioridade dos obedientes"
+		],
+		"resposta": 1
+	},
+	{
+		"tema": "Parábolas",
+		"pergunta": "Na parábola do Semeador, o solo fértil representa:",
+		"alternativas": [
+			"Pessoas que seguem a lei por medo",
+			"Espíritos sem livre-arbítrio",
+			"Corações preparados para viver o ensinamento",
+			"Pessoas privilegiadas"
+		],
+		"resposta": 2
+	}
+]
