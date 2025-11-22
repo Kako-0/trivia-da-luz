@@ -12,23 +12,23 @@
 	},
 	{
 		"tema": "Introdução do Livro dos Espíritos",
-		"pergunta": "Na Introdução, Kardec afirma que os espíritos superiores recomendam que o estudo seja feito com:",
+		"pergunta": "De acordo com a Introdução do Livro dos Espíritos, qual deve ser a atitude do estudante ao analisar comunicações espirituais?",
 		"alternativas": [
-			"Pressa e fé cega",
-			"Base em tradições antigas",
-			"Perseverança e sem ideias preconcebidas",
-			"Obediência absoluta às comunicações"
+			"Confiar primeiro na mensagem e depois avaliar a lógica dela",
+			"Evitar comparar diferentes comunicações para não gerar dúvidas",
+			"Estudar com constância, examinando tudo sem ideias pré-formadas",
+			"Seguir principalmente o que parecer mais elevado, sem questionar"
 		],
 		"resposta": 2
 	},
 	{
 		"tema": "Introdução do Livro dos Espíritos",
-		"pergunta": "Segundo a Introdução, qual é a relação entre ciência e Espiritismo?",
+		"pergunta": "Conforme a Introdução do Livro dos Espíritos, como se complementam o Espiritismo e a ciência no entendimento da realidade?",
 		"alternativas": [
-			"São incompatíveis",
-			"A ciência explica o mundo material e o Espiritismo explica o mundo moral",
-			"O Espiritismo substitui a ciência",
-			"A ciência depende do Espiritismo para avançar"
+			"Eles tratam de campos opostos e incompatíveis",
+			"A ciência estuda os fenômenos materiais e o Espiritismo amplia o entendimento do aspecto moral e espiritual",
+			"O Espiritismo substitui as explicações científicas quando estas são insuficientes",
+			"O avanço científico depende diretamente das revelações espirituais"
 		],
 		"resposta": 1
 	},
@@ -56,12 +56,12 @@
 	},
 	{
 		"tema": "Introdução do Livro dos Espíritos",
-		"pergunta": "Os Espíritos se comunicam principalmente para:",
+		"pergunta": "Segundo a Introdução do Livro dos Espíritos, qual é a finalidade principal das comunicações espirituais dirigidas aos encarnados?",
 		"alternativas": [
-			"Divertir encarnados",
-			"Instruir e esclarecer",
-			"Dominar e impor regras",
-			"Provar a vida após a morte"
+			"Entreter e gerar curiosidade sobre o mundo espiritual",
+			"Orientar por meio de ensinamentos que favoreçam progresso e esclarecimento",
+			"Estabelecer autoridade moral dos Espíritos sobre os encarnados",
+			"Confirmar a existência da vida espiritual por demonstrações fenomenais"
 		],
 		"resposta": 1
 	},
@@ -90,23 +90,23 @@
 
 	{
 		"tema": "Livro dos Médiuns",
-		"pergunta": "Segundo o Capítulo XX, a influência moral do médium pode afetar:",
+		"pergunta": "Segundo o Capítulo XX do Livro dos Médiuns, de que maneira a condição moral do médium interfere nas comunicações espirituais?",
 		"alternativas": [
-			"A forma física do espírito",
-			"A velocidade da comunicação",
-			"A sintonia e o tipo de espírito que se comunica",
-			"A potência da mediunidade"
+			"Determinando a aparência e a forma perispiritual do comunicante",
+			"Acelerando ou retardando o processo de transmissão",
+			"Estabelecendo a sintonia que permite a aproximação de espíritos de determinada ordem",
+			"Aumentando automaticamente a força e o alcance da faculdade mediúnica"
 		],
 		"resposta": 2
 	},
 	{
 		"tema": "Livro dos Médiuns",
-		"pergunta": "Médiuns moralmente falhos:",
+		"pergunta": "De acordo com o Livro dos Médiuns, o que ocorre quando o médium possui falhas morais persistentes?",
 		"alternativas": [
-			"Não podem receber mensagens",
-			"Atraem espíritos inferiores, mesmo se tiverem boa faculdade",
-			"Não exercem influência na mediunidade",
-			"São incapazes de ser enganados"
+			"Sua faculdade mediúnica deixa de funcionar, independentemente da influência espiritual",
+			"Ele se torna naturalmente mais acessível a espíritos inferiores, mesmo conservando boa aptidão mediúnica",
+			"A conduta moral não interfere na qualidade das comunicações que recebe",
+			"A presença de espíritos enganadores é automaticamente impedida pela técnica mediúnica"
 		],
 		"resposta": 1
 	},
@@ -123,23 +123,23 @@
 	},
 	{
 		"tema": "Livro dos Médiuns",
-		"pergunta": "Critério para verificar identidade dos espíritos:",
+		"pergunta": "Segundo o Livro dos Médiuns, qual é um dos critérios mais confiáveis para reconhecer a identidade real de um espírito comunicante?",
 		"alternativas": [
-			"Elevação moral do conteúdo",
-			"Nome utilizado",
-			"Estado físico do médium",
-			"Duração da comunicação"
+			"Analisar se a mensagem apresenta coerência moral e elevação de pensamento",
+			"Considerar o nome ou título usado pelo espírito ao se apresentar",
+			"Observar sinais físicos manifestados pelo médium durante a comunicação",
+			"Avaliar o tempo que a comunicação se prolonga sem interrupções"
 		],
 		"resposta": 0
 	},
 	{
 		"tema": "Livro dos Médiuns",
-		"pergunta": "Espíritos mistificadores podem ser identificados porque:",
+		"pergunta": "Segundo o Livro dos Médiuns, como identificar com maior segurança a presença de espíritos mistificadores?",
 		"alternativas": [
-			"Sempre usam nomes desconhecidos",
-			"Apresentam contradições, orgulho e linguagem enganosa",
-			"Nunca fazem elogios",
-			"Recusam responder perguntas"
+			"Pelo fato de adotarem nomes pouco conhecidos ou incomuns",
+			"Pelas incoerências, vaidade e artifícios usados para iludir o ouvinte",
+			"Por evitarem qualquer forma de elogio ao médium ou aos presentes",
+			"Por demonstrarem relutância em responder questões simples"
 		],
 		"resposta": 1
 	},
@@ -181,10 +181,10 @@
 		"tema": "Princípios Básicos da Doutrina",
 		"pergunta": "Princípio fundamental da Doutrina Espírita:",
 		"alternativas": [
-			"Predestinação absoluta",
-			"Imortalidade da alma",
-			"Castigo eterno",
-			"Inexistência de vida após a morte"
+			"A ideia de que o espírito permanece fixo em um único estado evolutivo",
+			"A continuidade da existência do espírito após a morte do corpo físico",
+			"A impossibilidade de comunicação entre encarnados e desencarnados",
+			"A crença de que a vida material é a única forma de experiência consciente"
 		],
 		"resposta": 1
 	},
@@ -203,10 +203,10 @@
 		"tema": "Princípios Básicos da Doutrina",
 		"pergunta": "A comunicabilidade dos espíritos significa que:",
 		"alternativas": [
-			"Somente santos podem se comunicar",
-			"Espíritos aparecem apenas em sonhos",
-			"Podem interagir com encarnados",
-			"Não interferem no mundo físico"
+			"Somente espíritos altamente evoluídos possuem autorização para transmitir mensagens",
+			"A manifestação espiritual ocorre exclusivamente durante o sono ou inconsciência do encarnado",
+			"Os espíritos podem estabelecer contato e transmitir ideias aos que estão encarnados",
+			"As ações dos espíritos limitam-se ao próprio plano, sem qualquer possibilidade de interação"
 		],
 		"resposta": 2
 	},
@@ -225,10 +225,10 @@
 		"tema": "Princípios Básicos da Doutrina",
 		"pergunta": "A lei de causa e efeito explica:",
 		"alternativas": [
-			"Destino fixo",
-			"Consequências naturais das escolhas",
-			"Intervenções sobrenaturais",
-			"Milagres constantes"
+			"Que os acontecimentos estão previamente determinados e independem das ações do espírito",
+			"Que cada ato gera resultados compatíveis com sua natureza, refletindo responsabilidade individual",
+			"Que certos fatos se devem exclusivamente a influências sobrenaturais imprevisíveis",
+			"Que eventos extraordinários ocorrem sem relação com o comportamento moral do indivíduo"
 		],
 		"resposta": 1
 	},
@@ -268,12 +268,12 @@
 	},
 	{
 		"tema": "Soul – Visão Espírita",
-		"pergunta": "A 'faísca' representa:",
+		"pergunta": "No contexto espírita aplicado ao filme *Soul*, a 'faísca' atribuída à 22 pode ser entendida como:",
 		"alternativas": [
-			"Predestinação absoluta",
-			"Força vital material",
-			"Tendências e propósito reencarnatório",
-			"Inspiração de mentores encarnados"
+			"Uma determinação fixa e imutável que define integralmente o destino do espírito",
+			"Um princípio ligado exclusivamente ao funcionamento biológico na encarnação",
+			"As inclinações, aptidões e o propósito que orientam a experiência reencarnatória",
+			"Uma inspiração direta proveniente de indivíduos encarnados com grande sensibilidade"
 		],
 		"resposta": 2
 	},
@@ -302,12 +302,12 @@
 	},
 	{
 		"tema": "Bem x Mal – Leis Morais",
-		"pergunta": "O sofrimento decorrente do mal praticado tem objetivo de:",
+		"pergunta": "Segundo as Leis Morais, o sofrimento decorrente do mal praticado tem objetivo de",
 		"alternativas": [
-			"Castigo divino",
-			"Reformar e orientar o espírito",
-			"Atestar inferioridade permanente",
-			"Punir sem finalidade educativa"
+			"Impor uma penalidade definitiva determinada pela vontade divina",
+			"Estimular a reflexão, corrigir rumos e favorecer o progresso moral do espírito",
+			"Confirmar que o espírito permanecerá em condição inferior por tempo indeterminado",
+			"Aplicar uma punição que não possui intenção de aprendizado ou transformação"
 		],
 		"resposta": 1
 	},
@@ -325,12 +325,12 @@
 	},
 	{
 		"tema": "Parábolas",
-		"pergunta": "Na parábola do Semeador, o solo fértil representa:",
+		"pergunta": "Na parábola do Semeador, o que simboliza o solo fértil?",
 		"alternativas": [
-			"Pessoas que seguem a lei por medo",
-			"Espíritos sem livre-arbítrio",
-			"Corações preparados para viver o ensinamento",
-			"Pessoas privilegiadas"
+			"Indivíduos que apenas obedecem por conveniência ou medo",
+			"Espíritos sem capacidade de escolha ou discernimento",
+			"Corações receptivos e preparados para compreender e praticar os ensinamentos morais",
+			"Pessoas com privilégios inatos que facilitam a compreensão espiritual"
 		],
 		"resposta": 2
 	}
